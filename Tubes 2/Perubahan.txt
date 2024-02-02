@@ -1,0 +1,23 @@
+Hal Yang Diubah di TUBES 2
+1. Judul
+Calendarku-> Done!
+2. Font dan ukuran font
+Arial 14 -> Montserrat 13 bold
+3. Nama Button
+font menjadi montserrat 9
+Save -> Simpan row 6 -> 5, jarak S->N
+Load -> Muat row 6 -> 5, jarak S->N
+warna button tambah muat simpan hapus menjadi oranye
+4. Fungsi tambah
+Judul "+" ->Tambah tugas
+Keterangan = panjang 12 -> 15
+tinggi 5 -> 8
+5. Detail Todo
+Judul = Detail todo -> Detail
+6. Warna Background Calendar : Orange
+Warna boorder tanggal = merah
+7. Cursor
+hand1 -> circle
+
+merah-hitam
+biru-putih
